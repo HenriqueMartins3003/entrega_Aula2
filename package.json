@@ -1,0 +1,14 @@
+{
+  "name": "entrega-1",
+  "version": "1.0.0",
+  "description": "primeira entrega bootcamp nodeJS coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
